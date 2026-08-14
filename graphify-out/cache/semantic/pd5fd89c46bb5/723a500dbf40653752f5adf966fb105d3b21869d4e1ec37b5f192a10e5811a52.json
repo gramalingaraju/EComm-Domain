@@ -1,0 +1,1 @@
+{"nodes": [{"id": "doc:index.html", "label": "index.html", "type": "DOCUMENT", "source_file": "index.html", "summary": "HTML entry point loading favicon, root div container, and main.jsx script."}], "edges": [{"source": "doc:index.html", "target": "asset:favicon.svg", "relation": "REFERENCES", "source_file": "index.html", "confidence": "EXTRACTED"}], "hyperedges": []}
